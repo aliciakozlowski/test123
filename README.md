@@ -9,3 +9,6 @@ Another change...
 One more.
 
 Now this is the change we want. 
+
+Still adding updates
+alicia.png
